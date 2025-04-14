@@ -1,0 +1,7 @@
+www-test.helmett-sport.com
+live.helmett-sport.com
+www.helmett-sport.com
+admin.helmett-sport.com
+www-dev.helmett-sport.com
+webmail.helmett-sport.com
+*.helmett-sport.com

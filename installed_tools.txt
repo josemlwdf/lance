@@ -1,0 +1,8 @@
+subfinder
+httpx
+katana
+feroxbuster
+fff
+ffuf
+4-zero-3
+wpscan
